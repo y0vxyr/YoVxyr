@@ -1,22 +1,14 @@
 <div align="center">
 
-### Hello, I'm vxyr
+### Hello, I'm vxyr (or Chris)
 
 </div>
 
-## <p align = center> Projects </p>
-• Voiding Network<br />
-• A ton of other personal things, hence all the private repos <br />
-
 <h2> <p align = center> About me </p></h2>
-• Vxyr, 14 <br />
+• Vxyr, 17 <br />
 • United States, Timezone EST <br />
 
-• Upcoming Developer <br />
-• Fluent in Skript <br />
-• Currently learning Java.<br />
-
-• Discord: vxyr#2223 <br />
+• Discord: yovxyr <br />
 • Twitter: @yovxyr <br />
 • Twitch: https://twitch.com/yovxyr <br />
 
